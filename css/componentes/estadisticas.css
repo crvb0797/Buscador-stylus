@@ -1,0 +1,11 @@
+.estadisticas--articulos {
+  height: 70px;
+  padding: 20px;
+  border-top: 1px solid color-primario;
+}
+.estadisticas--articulos ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: space-evenly;
+}
